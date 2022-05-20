@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+./digitalBrain/api.py
+digitalBrain/api.py
+digitalBrain.egg-info/PKG-INFO
+digitalBrain.egg-info/SOURCES.txt
+digitalBrain.egg-info/dependency_links.txt
+digitalBrain.egg-info/requires.txt
+digitalBrain.egg-info/top_level.txt
+digitalBrain/models/BigResNet.pth
+digitalBrain/models/SmallResNet.pth
